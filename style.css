@@ -1,0 +1,79 @@
+body{
+   overflow-x:hidden ;
+}
+#nan{width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(226, 125, 58);
+    
+}
+
+#link{
+    margin:  0 2rem;
+    color: aliceblue;
+   
+} #link:hover{
+background-color:black ;
+border-radius: 7px;
+}
+
+#im{
+    background-image:url("images/Technology-Solutions-For-Your-Business.jpg");
+    height: 100%;
+    width: 99%;
+ 
+}#h1{
+  text-align: center;margin-top: 7rem;height: 34rem; }
+   #h{margin-left: 6%;
+    line-height: 4rem;
+    color: black; 
+    font-size: 3rem;
+
+   }
+ #hobb{
+    text-align: center;
+    color: black;
+margin-top: 4rem;
+font-size: 3rem;
+
+ }
+ .to{
+    
+    text-align: center;
+    height: 10rem;
+    line-height: 2rem;
+    color: black;
+    
+    
+ }
+ #to{
+    margin: 4% 10% 4%;}
+ #hed{
+   text-align: center;
+   padding-top: 2em;color: white; 
+ }
+ #circle {
+    background: black;
+    border-radius: 50%;
+    width: 15em;
+    height: 15em;
+    text-align: center;
+    margin-top: 3%;
+    box-shadow: 1rem 2rem 0rem 0rem wheat;
+ } #ro{
+    background-color: rgb(226, 125, 58);
+    height: 20rem;
+ justify-content: center;
+ border-radius: 10px;
+ text-align: center;
+   }
+#dl{
+   margin-top: 5%;
+   color: white;
+   
+}dt{
+   margin: 2%;
+}footer{
+   margin-top: 4rem;
+   text-align: center;
+}
